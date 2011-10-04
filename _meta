@@ -1,0 +1,7 @@
+<package project="Mer:Trunk:Base" name="xorg-x11-xkb-utils">
+  <title>X.Org X11 xkb utilities</title>
+  <description>X.Org X11 xkb utilities
+
+</description>
+  <url>http://www.x.org</url>
+</package>
